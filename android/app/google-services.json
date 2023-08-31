@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064812754543",
+    "project_id": "island-tour-planner-560cc",
+    "storage_bucket": "island-tour-planner-560cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064812754543:android:eb3601902a805fb3c27f9a",
+        "android_client_info": {
+          "package_name": "com.example.island_tour_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064812754543-v6iqg6d2hf8iibaq5qg71073jpmt8moo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYRqQVnq9-oT-haxivnVFTtX0BN3hBnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064812754543-v6iqg6d2hf8iibaq5qg71073jpmt8moo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
